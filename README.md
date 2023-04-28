@@ -4,7 +4,7 @@ Sensor Fusion by combing lidar's high resolution imaging with radar's ability to
 
 <img src="media/ukf_highway_tracked.gif" width="700" height="400" />
 
-I have implemented Unscented Kalman Filter to estimate the state of multiple cars on a highway using noisy lidar and radar measurements. RMSE values are lower that the tolerance.
+UKF has been used to estimate the state of multiple cars on a highway using noisy lidar and radar measurements. RMSE values are lower than set tolerance.
 
 <img src="media/ukf_highway.png" width="700" height="400" />
 
